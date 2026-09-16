@@ -1,4 +1,4 @@
-# Apple Orchard Manager
+# Apple Orchard Manager - Python course assignment
 
 A small terminal-based Python program for managing an apple orchard: tracking individual trees, their variety, known problems/diseases, harvest time, and whether each tree has been pruned during the current year. The list of trees is saved/loaded to/from a JSON-file.
 
