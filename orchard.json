@@ -1,0 +1,53 @@
+{
+  "current_year": 2025,
+  "trees": [
+    {
+      "tree_id": "A1",
+      "variety": "Ingrid Marie",
+      "planted_year": 1965,
+      "harvest_time": "August",
+      "problems": [
+        "brown rot"
+      ],
+      "pruned_this_year": false
+    },
+    {
+      "tree_id": "A2",
+      "variety": "Oranie",
+      "planted_year": 1965,
+      "harvest_time": "September",
+      "problems": [
+        "brown rot"
+      ],
+      "pruned_this_year": false
+    },
+    {
+      "tree_id": "A3",
+      "variety": "Ribston",
+      "planted_year": 1965,
+      "harvest_time": "October",
+      "problems": [
+        "apple fruit moth"
+      ],
+      "pruned_this_year": true
+    },
+    {
+      "tree_id": "A4",
+      "variety": "Fredrik",
+      "planted_year": 2025,
+      "harvest_time": "October",
+      "problems": [
+        "bark damage"
+      ],
+      "pruned_this_year": false
+    },
+    {
+      "tree_id": "A5",
+      "variety": "Signe Tillisch",
+      "planted_year": 1920,
+      "harvest_time": "October",
+      "problems": [],
+      "pruned_this_year": true
+    }
+  ]
+}
